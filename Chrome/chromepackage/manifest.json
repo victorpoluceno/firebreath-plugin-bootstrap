@@ -1,0 +1,9 @@
+{
+  "name": "Bootstrap",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "A FireBreath plugin bootstrap project",
+
+	"plugins": [
+    { "path": "npBootstrap.dll", "public": true }
+  ]
+}
